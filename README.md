@@ -9,7 +9,7 @@ This application connects springboot restful web services and writes 'Hello Worl
 
 3) You git clone https://github.com/gokhanmemis/reactspringbootrestexample.git
 
-4) In the main folder, you install npm for ReactJS and we start working. That is, navigate inside the directory by cd react-app-simple-hello-world
+4) In the main folder, you install npm for ReactJS and we start working. That is, navigate inside the directory by cd reactspringbootrestexample
 
 ```
 npm install
